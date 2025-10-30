@@ -1,0 +1,8 @@
+VAR
+	enable : USINT;
+	speed : UINT;
+	counter : UDINT;
+	fb_controller : FB_Regulator;
+	fb_motor2 : FB_Motor;
+	fb_motor : FB_Motor;
+END_VAR
