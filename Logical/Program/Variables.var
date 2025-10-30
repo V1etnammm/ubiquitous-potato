@@ -1,4 +1,5 @@
 VAR
+	speed_in_rad : REAL;
 	enable : USINT;
 	speed : UINT;
 	counter : UDINT;
